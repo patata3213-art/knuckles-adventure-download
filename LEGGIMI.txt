@@ -2,7 +2,7 @@ KNUCKLES ADVENTURE - Windows
 ============================
 
 1. Estrai lo zip (tasto destro, "Estrai tutto").
-2. Apri UNISCI_PRIMA.bat: unisce i 6 pezzi del gioco in un solo file.
+2. Apri UNISCI_PRIMA.bat: unisce i 7 pezzi del gioco in un solo file.
 3. Apri KnucklesAdventure.exe e gioca.
 
 Comandi: WASD per muoverti, Spazio per saltare, E quando compare il tasto,
