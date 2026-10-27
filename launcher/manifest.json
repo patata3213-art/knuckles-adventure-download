@@ -1,18 +1,18 @@
 {
  "formato": 1,
  "gioco": {
-  "versione": "15.90",
+  "versione": "15.91",
   "eseguibile": "KnucklesAdventure.exe",
   "file": [
    {
     "percorso": "KnucklesAdventure.exe",
-    "dimensione": 702017088,
-    "sha256": "a9fadc2e3df2c794727be7d4e4f76d91832491e58f6118f839fb5db0308f2a8c",
+    "dimensione": 702017184,
+    "sha256": "329d05eb363d4489e3cc4173844a908dc7acfa44eada23ff51a3d97cced30908",
     "parti": [
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/KnucklesAdventure.exe.part0",
       "dimensione": 94371840,
-      "sha256": "5f6c0fc22af0e9e29f0935c3f541783cbf8a8c05e48f3734693ae8bf39b76464"
+      "sha256": "a596b273386700c87c7239d698c895c7c376dbf8090dd385cad50e706949f82d"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/KnucklesAdventure.exe.part1",
@@ -46,8 +46,8 @@
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/KnucklesAdventure.exe.part7",
-      "dimensione": 41414208,
-      "sha256": "718fcfdc8e0436abc31bb0b93a4680048a3ae10cdd574d8fa691c04138f1dbe1"
+      "dimensione": 41414304,
+      "sha256": "806d2a778e5676acee954edbe122808ca393207e2b97a295c4fa9dc435c541ed"
      }
     ]
    },
@@ -66,7 +66,7 @@
   "sha256": "3ba4693dd1dd6618471de7b6adbd0b852423994d9dd218a5192a6abe4738e2ec"
  },
  "notizie": {
-  "it": "Versione 15.90: Sandopolis Zone è arrivata! Atto 1 e Atto 2 completi, nuove musiche e tante correzioni.",
-  "en": "Version 15.90: Sandopolis Zone has arrived! Full Act 1 and Act 2, new music and lots of fixes."
+  "it": "Versione 15.91: Sandopolis Zone è arrivata! Atto 1 e Atto 2 completi, nuove musiche e tante correzioni.",
+  "en": "Version 15.91: Sandopolis Zone has arrived! Full Act 1 and Act 2, new music and lots of fixes."
  }
 }
