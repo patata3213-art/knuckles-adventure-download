@@ -1,18 +1,18 @@
 {
  "formato": 1,
  "gioco": {
-  "versione": "15.91",
+  "versione": "15.92",
   "eseguibile": "KnucklesAdventure.exe",
   "file": [
    {
     "percorso": "KnucklesAdventure.exe",
-    "dimensione": 702017184,
-    "sha256": "329d05eb363d4489e3cc4173844a908dc7acfa44eada23ff51a3d97cced30908",
+    "dimensione": 702017312,
+    "sha256": "eebc66b23e19a52f3de646e0b180163a724bbb226c4331b0bd76aeddaa14198a",
     "parti": [
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part0",
       "dimensione": 4194304,
-      "sha256": "5ca4abddcd9034b1572020f4a02b6a129caf3650166e8a82bc8000c9fb44bfe6"
+      "sha256": "1ff876074d94363906232e9234f6d8b125c6bef9b04d6c5677346734f1a353d7"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part1",
@@ -112,7 +112,7 @@
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part20",
       "dimensione": 4194304,
-      "sha256": "e755ee0533f91cf0523c5132af5f3051a5a0ebd0ac77ffdd3be4d1929793dafa"
+      "sha256": "8f4fbf3b980f91ed220c284f86489df91c6ea00a774968597e9407eab98b54a0"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part21",
@@ -827,27 +827,27 @@
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part163",
       "dimensione": 4194304,
-      "sha256": "ccb07ef6ec88eb8f2b5779e7a13d18ac26bb78e1fd09f4337da4c100f74c1fda"
+      "sha256": "4b6e73ea059e78a0ff61f9ee692a18175b2427c8524f39bd5e2cff593e95e9cf"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part164",
       "dimensione": 4194304,
-      "sha256": "60a4007fe2bd24aeb67f17a673376ced9fe0a5da57a76532bfe03f384da36104"
+      "sha256": "36e64040acb3b3dc6b32bdcc1f15c0f8942bb8e6a1237552b65534459dad19e4"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part165",
       "dimensione": 4194304,
-      "sha256": "66cd2255ad95e757a173d11adf891d0aff9aecba529cf8f00fb23f87a023e367"
+      "sha256": "f04472f4549ed5870a4e0eee21e645032c709a5f61e42244f7e1fec046f54fda"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part166",
       "dimensione": 4194304,
-      "sha256": "2e8aa1ad54070d5936f61c5441ea17b9ef36158ed4416679e87d8277944ba5c4"
+      "sha256": "9ac6733eddddba5d6e8200d955544c745a88b83305b34afc33eec38af2b4a46a"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part167",
-      "dimensione": 1568416,
-      "sha256": "50ebd1100ab294e8ccd15f38b37f77cf26c6e8a4d6c0259b6e47d25acc80ef32"
+      "dimensione": 1568544,
+      "sha256": "0fd644e722fd53329f38b8ee4777c617bfdfbdb7bcab1029785d1ffe690b47fd"
      }
     ]
    },
@@ -866,7 +866,7 @@
   "sha256": "3ba4693dd1dd6618471de7b6adbd0b852423994d9dd218a5192a6abe4738e2ec"
  },
  "notizie": {
-  "it": "Versione 15.91: Sandopolis Zone è arrivata! Atto 1 e Atto 2 completi, nuove musiche e tante correzioni.",
-  "en": "Version 15.91: Sandopolis Zone has arrived! Full Act 1 and Act 2, new music and lots of fixes."
+  "it": "Versione 15.92: Sandopolis Zone completa, Atto 1 e Atto 2, con nuove musiche e tante correzioni.",
+  "en": "Version 15.92: Sandopolis Zone complete, Act 1 and Act 2, with new music and lots of fixes."
  }
 }
