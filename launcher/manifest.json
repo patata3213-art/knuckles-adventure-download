@@ -1,0 +1,67 @@
+{
+ "formato": 1,
+ "gioco": {
+  "versione": "15.89",
+  "eseguibile": "KnucklesAdventure.exe",
+  "file": [
+   {
+    "percorso": "KnucklesAdventure.exe",
+    "dimensione": 597049712,
+    "sha256": "6e9d30c23321bbf0dad101c73a1d54785f898719da29df273464ab90d4179724",
+    "parti": [
+     {
+      "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/KnucklesAdventure.exe.part0",
+      "dimensione": 94371840,
+      "sha256": "9414b2d0f0ae564fe20902f4fa855c694f40348daec8f9cdf06e820f665d6eff"
+     },
+     {
+      "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/KnucklesAdventure.exe.part1",
+      "dimensione": 94371840,
+      "sha256": "65645f954693f939e7cd048ad46d736a4d48149c224ca2acbbdaac7fa09b16c3"
+     },
+     {
+      "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/KnucklesAdventure.exe.part2",
+      "dimensione": 94371840,
+      "sha256": "c84352de37096b8af7cab90dafa0a3f319fce695699246e83f974a55f431d6e7"
+     },
+     {
+      "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/KnucklesAdventure.exe.part3",
+      "dimensione": 94371840,
+      "sha256": "42db836becb7bdb95e9f68cd1b0c15f92d88a7a96e2f690e2c8b346a70d0c654"
+     },
+     {
+      "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/KnucklesAdventure.exe.part4",
+      "dimensione": 94371840,
+      "sha256": "ad1717503072e12751619f8d4828c2b7efdf150094dfa53154c03320f192f5ff"
+     },
+     {
+      "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/KnucklesAdventure.exe.part5",
+      "dimensione": 94371840,
+      "sha256": "ab1afbe9b5372401bbc5ca7b1fa4e1a3d7de13cade23d28276c752957fde3d17"
+     },
+     {
+      "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/KnucklesAdventure.exe.part6",
+      "dimensione": 30818672,
+      "sha256": "bbe39a9d5dd0a5cc1b4960810e2583209e2c0dbbd80dd18bc7ea0409758254b0"
+     }
+    ]
+   },
+   {
+    "percorso": "LEGGIMI.txt",
+    "dimensione": 407,
+    "sha256": "9131580d81b9dfd4549a406a3f4250808d5c30a66e3131195311a13b11792933",
+    "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/LEGGIMI.txt"
+   }
+  ]
+ },
+ "launcher": {
+  "versione": "1.0.0",
+  "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/launcher/KnucklesLauncher.exe",
+  "dimensione": 90284368,
+  "sha256": "3ba4693dd1dd6618471de7b6adbd0b852423994d9dd218a5192a6abe4738e2ec"
+ },
+ "notizie": {
+  "it": "Benvenuto nel launcher di Knuckles Adventure! Da ora il gioco si aggiorna da solo e scarica solo i file cambiati.",
+  "en": "Welcome to the Knuckles Adventure launcher! From now on the game updates itself and downloads only the files that changed."
+ }
+}
