@@ -449,7 +449,7 @@ footer p { margin: 0 auto; max-width: 44rem; }
 
   <div class="hero-in">
     <nav class="nav" aria-label="Sezioni">
-      <a href="#storia">La storia</a><a href="#zone">Le zone</a><a href="#installa">Installa</a><a href="#comandi">Comandi</a>
+      <a href="#storia">La storia</a><a href="#zone">Le zone</a><a href="#installa">Installa</a><a href="#comandi">Comandi</a><a href="#coop">Co-op</a>
     </nav>
     <div class="hero-ui" data-z="0.12">
       <p class="chip"><b>Versione 15.89</b> · 25 ottobre 2026</p>
@@ -647,6 +647,63 @@ footer p { margin: 0 auto; max-width: 44rem; }
       </div>
     </div>
   </section>
+
+  <section class="sec" id="coop" aria-labelledby="h-coop">
+    <div class="deco" aria-hidden="true">
+      <svg class="sym" data-sd="0.3" style="--x:87%;--y:30px;--s:72px;--r:-8deg;color:var(--yellow);--o:var(--blue)"><use href="#m-ring"/></svg>
+      <svg class="sym" data-sd="-0.2" style="--x:2%;--y:40px;--w:150px;--h:32px;color:var(--green);--o:var(--red)"><use href="#m-zz"/></svg>
+    </div>
+    <div class="wrap">
+      <div class="zz panel panel-zones">
+        <p class="num" aria-hidden="true" style="color:var(--paper)">05</p>
+        <p class="kick">Nuovo gioco · Versione <span id="coop-ver">0.4.0</span></p>
+        <h2 id="h-coop">Knuckles 4 Co-op</h2>
+        <p>Un platform laterale da giocare fino in quattro, via Hamachi. Scegli Knuckles, Sonic o Tails: ognuno ha la sua corsia e le sue mosse, e il livello si adatta alla squadra che c'è.</p>
+        <div class="zones">
+          <article class="zone-open">
+            <figure>
+              <img src="media/coop_angel_beach.jpg" alt="Sonic corre ad Angel Beach accanto a un giro della morte, al tramonto" loading="lazy" width="960" height="540">
+              <span class="badge">Nuovo</span>
+            </figure>
+            <div class="zt">
+              <h3>Angel Beach</h3>
+              <span class="act">Atto 1</span>
+              <p>Spiaggia al tramonto: giri della morte, scogliere da scalare e tre corsie.</p>
+            </div>
+          </article>
+          <article class="zone-open">
+            <figure>
+              <img src="media/coop_corsie.jpg" alt="Tails vola verso le piattaforme della corsia alta" loading="lazy" width="960" height="540">
+            </figure>
+            <div class="zt">
+              <h3>Tre personaggi</h3>
+              <p><b>Knuckles</b> plana, scala e sfonda i muri. <b>Sonic</b> è il più veloce e trascina i compagni. <b>Tails</b> vola, lancia bombe e porta gli altri appesi.</p>
+            </div>
+          </article>
+        </div>
+        <ol class="steps" style="margin-top:56px">
+          <li class="step"><span class="n" aria-hidden="true">1</span><h3>Scarica ed estrai</h3><p>Estrai lo zip e apri la cartella <code>coop</code>.</p></li>
+          <li class="step"><span class="n" aria-hidden="true">2</span><h3>Gioca</h3><p>Apri <code>Knuckles4Coop.exe</code>. Lascia accanto il file <code>.pck</code>.</p></li>
+          <li class="step"><span class="n" aria-hidden="true">3</span><h3>Patch automatiche</h3><p>Il menu ti avvisa delle novità: premi "Aggiorna" e riavvia.</p></li>
+        </ol>
+        <a class="btn-dl" style="margin-top:40px" href="https://github.com/patata3213-art/knuckles-adventure-download/archive/refs/heads/coop.zip" target="_blank" rel="noopener">
+          <span class="btn-ico" aria-hidden="true"><svg><use href="#m-down"/></svg></span>
+          <span class="btn-txt">Scarica il Co-op</span>
+        </a>
+        <p class="dl-note" id="coop-notes" style="color:var(--ink,#111);margin-top:18px">Per Windows · circa 85 MB.</p>
+      </div>
+    </div>
+  </section>
+  <script>
+    // Versione e novita' lette dallo stesso file usato dal gioco per le patch.
+    fetch('https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/coop/coop/version.json', {cache: 'no-store'})
+      .then(r => r.ok ? r.json() : null)
+      .then(v => {
+        if (!v) return;
+        document.getElementById('coop-ver').textContent = v.version;
+        if (v.notes) document.getElementById('coop-notes').textContent = 'Per Windows · circa 85 MB · Novità: ' + v.notes;
+      }).catch(() => {});
+  </script>
 
   <section class="final" id="scarica" aria-labelledby="h-scarica">
     <div class="wrap">
