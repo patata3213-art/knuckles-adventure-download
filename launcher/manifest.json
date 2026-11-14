@@ -1,18 +1,18 @@
 {
  "formato": 1,
  "gioco": {
-  "versione": "15.93",
+  "versione": "15.94",
   "eseguibile": "KnucklesAdventure.exe",
   "file": [
    {
     "percorso": "KnucklesAdventure.exe",
-    "dimensione": 702018256,
-    "sha256": "11e2f5df7b434cffeb5b7107f2b10fd4779afb2463dcb2cd1d8ab3b3b89f74bc",
+    "dimensione": 746393836,
+    "sha256": "94bb1d1af5dcf197af2caabb7bceb7ae3a8b28646c568110615770adf6fb2c8a",
     "parti": [
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part0",
       "dimensione": 4194304,
-      "sha256": "0e158fcd0e753ee21838964994f5fa2b0637704de1d001820038262b232e4ce3"
+      "sha256": "4a7e4a1af96601c64bcd600612682abfe660c62b149e81cdc8c7cc673b37cb03"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part1",
@@ -112,749 +112,799 @@
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part20",
       "dimensione": 4194304,
-      "sha256": "df8bab5c55589824591900e62851627c7cd42734b43e8bf4d0fb068b2514a181"
+      "sha256": "783fce70c496a8e79c524dc6badf1f6467fd9b78cc5b2580c99a3a2c046393cd"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part21",
       "dimensione": 4194304,
-      "sha256": "b2dbcc6b512fd9b53f79d31328e2fe9ef9b909ca975519dd45529ad496b3fb7c"
+      "sha256": "12100f5cdd537d20b62501920e263a1f1cc9ad225649f3b762b970fc636f046e"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part22",
       "dimensione": 4194304,
-      "sha256": "734a25d9ddcf81acb0da7d9c45ac6cb69eb0409ae5c0c6efd7f1538f4cc0119c"
+      "sha256": "8305bf3a69ee085511a92de8c05cc0317c1588e8a8d3fc62794ea1c95b775757"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part23",
       "dimensione": 4194304,
-      "sha256": "0b4eda89a86e6cffa2e349568b1bb4ba4cb5ea320a06da0c9d76b9fedf5796cb"
+      "sha256": "813233dcb7edb7272e604ac4052632ac2d6633ee84f08129d42e9f4b5b9507d2"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part24",
       "dimensione": 4194304,
-      "sha256": "469f691497ca7d63902597492807689e3d1a79190dba92ca7dab902360ae820c"
+      "sha256": "63e78eb61055659d8118cc1d17daa219804422a3f1cec0f235303d1922cd6eaa"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part25",
       "dimensione": 4194304,
-      "sha256": "85d991588892a4498a02a8cbacb92b76cf2ce641baf5c1eda7edd832c7a706ba"
+      "sha256": "a83cfa893c8853435323657157af578b71fe49096952971894c10b021bb95814"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part26",
       "dimensione": 4194304,
-      "sha256": "15fe1e5a0c5fb0fae1d0aecee02efc9253b3b2195a8b6ceb25031de841d1e991"
+      "sha256": "d4c893c5742a9ad703dde5c6c1c40fb34090fcf60dc1dd201db3c3aa2963ed3a"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part27",
       "dimensione": 4194304,
-      "sha256": "9d4224cded39df9f7d98f25cff66b34e84162c7790582cb08836326590bcb3ba"
+      "sha256": "ced2dc0b7bfe25956045c4e9d7168086d9869e83d2665bb0280276d726c0747f"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part28",
       "dimensione": 4194304,
-      "sha256": "91780f15bbacc23e42c7c17ad1a7dd243ab74f35e14847b18b51af11cac4332b"
+      "sha256": "85a991255de947ccd8e88ac40cde99ff220db34d5ed4686817b3819d123f6d5d"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part29",
       "dimensione": 4194304,
-      "sha256": "374a48d0ee55f6ecbba0b1979649057bf2cd6b5212c426c50fb5393b32b74f0e"
+      "sha256": "e2e325a74ee14295e309ccdcb67c04494a03aa6e7c3da2cf32e4393d1c561031"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part30",
       "dimensione": 4194304,
-      "sha256": "32ae8f2ae0223eb6e73a58f57136f3d60f6951bbd1191400c904f398e456aaca"
+      "sha256": "bdaef7a335890689415ebadbc1c5af201f4686d33e9c0004c57d69575580d7b6"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part31",
       "dimensione": 4194304,
-      "sha256": "4b79d2d6de89f6a648286ffde2452ef009eded92265464b3f5282ee13bf7a86e"
+      "sha256": "4c48cc44db5f7c31a914d3ff6681bd02f0b3707588eef5bbadeefd0d56718e5d"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part32",
       "dimensione": 4194304,
-      "sha256": "c6f633e61bda1c0ffdae20de2d72ba2a668258e06ef78e6edadf7167dd3221fb"
+      "sha256": "ca73732f39998ebbb17064d415e50c243d51bc80b403b326bf16e8f736f8b49c"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part33",
       "dimensione": 4194304,
-      "sha256": "02b7288c2638d392852a41dbed5b2ab9088c56ec1f2d9ac36b7dcdc4055ce5a4"
+      "sha256": "1536270c07ef27c1abe3011f41093f9bd9360c5fd4420265b5d6c4e8905fc5e7"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part34",
       "dimensione": 4194304,
-      "sha256": "50ef9904fd4d5b74b2abdb5570f796f1bc5180e598cb60c4e4a8a1c71a15799b"
+      "sha256": "e34f00412d9dd81c289a5cfb60d45b0d69daa15500d00e17c8669a1ff70e8cce"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part35",
       "dimensione": 4194304,
-      "sha256": "92b395da1f63fc07aa7df38d7675c82db8a19da2f9bace88c5c468d9dd030b36"
+      "sha256": "645e617ef0c8f8f21659a07f1292e0dd19e09e7042d6e4596223712910284975"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part36",
       "dimensione": 4194304,
-      "sha256": "b3f0c4d11192df133c5135bacd3dc8cf811730ea64e25fc334fc37f424923742"
+      "sha256": "44ceaf84d7eaca18e9f90b4afb5e3a5269120acb0e2a2fba1370fd6bce35bbee"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part37",
       "dimensione": 4194304,
-      "sha256": "d81fc6da47fea27e3f5c0a8537401964d004047c303828734c742fab02a53506"
+      "sha256": "0bf413452cf7d9d7b1b4926e33af66e04df5398d82c70aa09b2092d282781566"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part38",
       "dimensione": 4194304,
-      "sha256": "da89facb73722fd30d18e1fcc5e0dd26b375e790536cb3c43d3075af5f70d00b"
+      "sha256": "fc3988397799f917905298dd4b9254c1c08a7ccc43706b5516c7a420b253ac4a"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part39",
       "dimensione": 4194304,
-      "sha256": "053b1d8fd60fe686ee53c3c8aecc32c828e14aaeee6f3f54af946ab5f3e09fd6"
+      "sha256": "9139512c88225e2e3575e3c6bebd12e76515a547afd5de58946a7a0d05fc072f"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part40",
       "dimensione": 4194304,
-      "sha256": "6e72053fd646307e11d2736a7e47f742a49a9fcaa2f502fc9839f0b9505f12e0"
+      "sha256": "27a64e6999c80889b3297073e50926c7031ab783bdf5d290029003ac0d977242"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part41",
       "dimensione": 4194304,
-      "sha256": "ed4aa250dafebd3f463e9fb386b1d58478e9a0a1ef9649936d7fed84c451924e"
+      "sha256": "b0c523999d4762a40e333f43cf0a80517dc927ef90114e495ab17013e170b1b2"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part42",
       "dimensione": 4194304,
-      "sha256": "c7d6b192e6c3a140ad53ebbcf8c20199959145ac4edfc81c460c6114ee7d6379"
+      "sha256": "40616a1c0500e2d6f52707cfd240ff0104f137e1d524eae797cd29a3e8fc16b6"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part43",
       "dimensione": 4194304,
-      "sha256": "398af692a4eccbd38ba57934e3b04e444df1cdda6e7300b7642e28e00dd479e9"
+      "sha256": "bebca3f5eb96ddbbb7a21d5bdc786c2ff766970ccd4fa91734f925ee7a7e2f0c"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part44",
       "dimensione": 4194304,
-      "sha256": "9cd384efa3911ffd4d80a0610a89d7f84d47eb085e5ea2e87e4b87097cb8f778"
+      "sha256": "901322c33169e5a09ceed56c3485c4b2b7498bd2f2cba13b49c4525b82ab6f8c"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part45",
       "dimensione": 4194304,
-      "sha256": "6690d33022758f7418f2ce11612c962466ad2477837ad17b977eaab79a656f15"
+      "sha256": "b09836ba34b10beed4ec04a14a0dfadd8552387f7c13eab4b81b66b7a6e79b13"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part46",
       "dimensione": 4194304,
-      "sha256": "6f3c575ccc631c6459bd9ab5526b9535ceae6c4afce83a5773e25b3544b31abf"
+      "sha256": "b239a7d7512d5b3db3ddd6e56ea6071b382c51c0316a99ba32eaf661c845aee8"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part47",
       "dimensione": 4194304,
-      "sha256": "69399c2b36e3bfa6f64f1d1dd6f92acbe00d265aca4b54a8fdc1512dfa9296b1"
+      "sha256": "890ab862b66a31e65a04201e6d2bcaf526b0260c3622714bc120486887f73099"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part48",
       "dimensione": 4194304,
-      "sha256": "c8214c440edfc3029b33291d3e64ee0c2a02413c3b4330e7a330b42243d681ed"
+      "sha256": "a34a9fda0e7dd9adca89405a1ea1d6cc7acf105ce501c420f36428d804ccb577"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part49",
       "dimensione": 4194304,
-      "sha256": "f434afed5f1e2a64f5d9806e314292d2afd6ad3c9aeb30b039affd72eebf51b7"
+      "sha256": "0d3bd09818678c2ef82c4250870ed74ffcac5c5f209704438af8ad5680329ee4"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part50",
       "dimensione": 4194304,
-      "sha256": "00b08ba7ad3b11cfe7c34325917f603e80bbc1ed7d9937ddcc9fad8db12b22b0"
+      "sha256": "75dfea40be3b0a36db9c6c059027fa6d0cc91e274cd649be86ed66fc49647d20"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part51",
       "dimensione": 4194304,
-      "sha256": "95a4fcb4b890556b24bedd174e0ff3d5bccd16a5c84c14a51185bb08335140f4"
+      "sha256": "236e56aec694afc8d247a46236e6445a60fcb6b5744d27f82b7e1a4220c1c852"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part52",
       "dimensione": 4194304,
-      "sha256": "6714b41c88c9273beb158f4f79ccf2de52b3be1ee1221558b06518839e15d168"
+      "sha256": "14529bbd22ecb908706e893aafcde6e6622a3e4123678429c49a1bd8c57b37a8"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part53",
       "dimensione": 4194304,
-      "sha256": "33a964c1a613e4445218e2b696a4c2600da6ae51ec0f68ce2f95923a61580c8c"
+      "sha256": "990a808333a2edcb787f601a7f10bf8556d673c199381e8ba6575ddd50290a49"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part54",
       "dimensione": 4194304,
-      "sha256": "66007ecc4b0d04daa67fedd28a66419347c415a8fea8b672e67e1413666dde91"
+      "sha256": "ab45541f04e784052b2abff4888b714f2730ee571c8ea16fcb3bd119e874a111"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part55",
       "dimensione": 4194304,
-      "sha256": "eb6697648cb7162b32d37db80cab745a70489fd179cf70cfce3cbf236558141d"
+      "sha256": "530674d7e3491c6009ca2235dc1043af73d95a56eee3a0430f00d1cddb60d0ab"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part56",
       "dimensione": 4194304,
-      "sha256": "61969341d3e40cb8835dd596d1ba4406f65a06f8928b559b3313924fafede8e8"
+      "sha256": "ca5d834c4316762351a3376909f58d010440de2a03e509a9ba37b3d4443b26e4"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part57",
       "dimensione": 4194304,
-      "sha256": "c8f07ef21a99e4ae7bd35737fb0c3760cad6911c208e814361bf444a37891c1b"
+      "sha256": "7570878360795f588ef35fbf92624cfc990082a43687ae391c134524145f0855"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part58",
       "dimensione": 4194304,
-      "sha256": "c55c093adac11753b9afcb02fd8900afbf1381189d62fdf9601e1693dabc9172"
+      "sha256": "f9a393d3da30c3de4e57d929845a33ce92094caa2962c79998a283a7ab44e759"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part59",
       "dimensione": 4194304,
-      "sha256": "5b05d9a4889985e2d95001432cd4cde52308d88b78ae852ddc43e66b65a00801"
+      "sha256": "dd4d7e9a0c8441b1a8a85a83c92f7d6f6f99b7aefefbc5cb66e63c9e5bcd74f6"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part60",
       "dimensione": 4194304,
-      "sha256": "b9cf43a2cc251b8017c52329342a7012e99e93a333656fb8fdb154f3daf29967"
+      "sha256": "62821416690fdd0798093d81d78a782031a9b9348cf27bf19d1327cf9618afaa"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part61",
       "dimensione": 4194304,
-      "sha256": "76c5f9900868f1fb47185d8a48da3e28564b8c19bbb58c583ba3d9a5afb20fc8"
+      "sha256": "74d08eb6c58c613b4477554dac046fd22d2722368f577c53f602bdf20aa4ec60"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part62",
       "dimensione": 4194304,
-      "sha256": "e8ff09e4efbc32600b82d767a95ae020d243e2e46ccd3f28166f2307e85fa8af"
+      "sha256": "ac231cee12dfe8f67a7e8c2c16d2c3cab32520e70b992bf301d7c464a25c76e4"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part63",
       "dimensione": 4194304,
-      "sha256": "1fa66b368aa97ad5d5cd68587e189bb3fa92f6e9d29c052ac063529d6ea0f5f3"
+      "sha256": "6cbe75915c0343338bea0b9694002fd2c2277bd860ba6695cb761b8e7cae32a4"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part64",
       "dimensione": 4194304,
-      "sha256": "317a642e69af5b340623651599a6c4d864a8ea6b8f3c6e9c581be74ae195b65e"
+      "sha256": "24323688143a8f7a356ecbbb05c0dfb09b929d8b8750997cf509420ad2f9cb1a"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part65",
       "dimensione": 4194304,
-      "sha256": "35420b689c680860278ac08df315a023a9f3df631bd85191363971c130742fd2"
+      "sha256": "9ca778da5345af3da985a5f41bc1f8c275b443a8a6cfd191f1e3f2dec24b2abe"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part66",
       "dimensione": 4194304,
-      "sha256": "f52cfd93aa69a87e7c1df4fd2d72128f8ee64ab5bc7448ee545912d10648d646"
+      "sha256": "bfbc20c4617853ebdfdfcb1044642596f9c5daf5ad71d098a2a8f4102ed39764"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part67",
       "dimensione": 4194304,
-      "sha256": "792dfa9e6506285aee0be6391d1a7f69254ebe72f62cc0325221e32c419c40ec"
+      "sha256": "f751818bab5c9cca3d1cfe62c7c6fd37a1207808a422f61afddf28d000bf4711"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part68",
       "dimensione": 4194304,
-      "sha256": "d84a44eb4a098eb2cd9c73634d728c6d8d701092e15cbcc42c7481f12f29af9f"
+      "sha256": "95b5f0f7ec412e623432b3886e3cc8b96520e61418f1b5d1bd5d568d3d7f30c3"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part69",
       "dimensione": 4194304,
-      "sha256": "b0341e690c6cd8af2d348f522a03a8f43f6f1757d3e33653b3e52f5d80c1210f"
+      "sha256": "4a2565e928b1943942c127b286cfb1babf815cdcf105d653d6ff8432bb87c586"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part70",
       "dimensione": 4194304,
-      "sha256": "b13fb7e2325ecc28831d87a47ca624c405288d3ed492550075f5e710a31c4c24"
+      "sha256": "30f8940be2aef573a54a44d49114bb4b96368b3e3d543a26925f3865aad8fdf6"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part71",
       "dimensione": 4194304,
-      "sha256": "78fd8bea99796697df6378f7fbd8166301e389223903e02c7b9a4af673e94c49"
+      "sha256": "82ee3e623cfeeb4192b2923e8c1cd1b4d62f4823fb76949409e03fd12ee9e171"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part72",
       "dimensione": 4194304,
-      "sha256": "828e3e4912bfca0c640aab7f43a0f39d589ff24e5a7e759824d81b9987be65fb"
+      "sha256": "26a7fffb954248ef916111eb66eac78cce7c9ca1c8fb59d334fceeb564e6b0e5"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part73",
       "dimensione": 4194304,
-      "sha256": "293554048914fd3d947bf7e0866de8e3a76d4277089026ef52967e6d9c72f3a2"
+      "sha256": "27f4eea0ee6ff88b9012922ff53f13bb1306674aed2893fe0211da8ab6d3b8bb"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part74",
       "dimensione": 4194304,
-      "sha256": "dc7c45b3f79fb7158c2a3acc694ecfe81ee3ef4712a37a9bbadd94662887b828"
+      "sha256": "341b77b255ee00ecb62a4e77c4c5dd1fb0dd005f4325c5d0e8e553bcff7a9fe4"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part75",
       "dimensione": 4194304,
-      "sha256": "0e5295dea4ec5e54545f74bf35fe4c0a1bfd1a35a33bea072a8e155de85c9e6d"
+      "sha256": "135fff5cb99566ae679111eda0091c8dd27264c139dfd2e015350cbfe5e5ac92"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part76",
       "dimensione": 4194304,
-      "sha256": "b4559e2cf79299d720c86177ace6b2b88bb5f65d12258d77d0b56f874d89b3c1"
+      "sha256": "6981df719835d3a05684ccb45e1267cacd9e353bfbec393633243ec0e6df4950"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part77",
       "dimensione": 4194304,
-      "sha256": "63a8b9b4675b8cbb2bfaf789a6243292360e84a207088e20857a329c8cf2420a"
+      "sha256": "2a3078982e976da16ed8b48dc609ff2f30e8bbbe8864b5bcc33678563c1acf71"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part78",
       "dimensione": 4194304,
-      "sha256": "65720d37e6bb852f3cb3c48cffd2a6d5f684eb3f65f20f5383d2f4c4f88c1fa6"
+      "sha256": "2d890cfa8270fe488740eb47646fd621ee98c57e4b84d84c4d3fe9482ff2b31d"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part79",
       "dimensione": 4194304,
-      "sha256": "4ebe6175dee9a4376e9aee5c43277a1dfe104e191df5b1684b11a5cce6f818dd"
+      "sha256": "44856d4a5260bcaf853365f6f9f7d13f20c0b878842071edf76818b14ff8a6a0"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part80",
       "dimensione": 4194304,
-      "sha256": "eb22c6e5ed7c9977bb8be8bde22ab9ba8fc05bea96748b7fa7d0a6d5068e310f"
+      "sha256": "67b7af387c5e84aadded02f3e9aca6b7ab580285259be14c368e278b50c948f8"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part81",
       "dimensione": 4194304,
-      "sha256": "8c2b8a9ce7b1ffa3ad5050c0eca231b6dcdf26d799806aef6235cf215be4c974"
+      "sha256": "6e22d9b29e94357ad6d165bb1c63fba0730055b3ada1fa54c3250d16703090e4"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part82",
       "dimensione": 4194304,
-      "sha256": "7ee71faa57a5e9b6e0d1e22106c8e3a00d91e48aff96032ad69847a4afffdcb1"
+      "sha256": "f7e4f2270e9dc807eca64ef7eb10b75d08d272b1ac6519e31eceff64b1c27221"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part83",
       "dimensione": 4194304,
-      "sha256": "492db844a77d719d4a0b097aca04abf72acba28711f5db6f1c9476967f542283"
+      "sha256": "75f7b20044e37188fec434a7eb13d29f98f4a68cd39b40b73d2791c81d56735d"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part84",
       "dimensione": 4194304,
-      "sha256": "504adbe71f7d2ad1d14f353c4b9d74b63d462dd2f5ef824478e0fd845cba6e45"
+      "sha256": "44ed160d2ac0d8089da7318f1fac3cd51d30edbf02a91e8c49665af1eae6ed7d"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part85",
       "dimensione": 4194304,
-      "sha256": "4ee72540b5664afe990c70c856b6e30d8d4b1376a153057010c9daa7e0aa8907"
+      "sha256": "4779f6e13e16d35c0f0c4b3a8c4e756e0c2b6e7e4d652d6879d769659826a9c5"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part86",
       "dimensione": 4194304,
-      "sha256": "cc7796500a46e4be5a369480a69ebc4834c13a3c46ef448080d17a452dce4f69"
+      "sha256": "ac7dd61b2bd6789c970bcb7661db0c0808679e3200e033b3c810ba448372069b"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part87",
       "dimensione": 4194304,
-      "sha256": "eae03f87aeecb5b0ad2f0b30801b80541b2fda570a7d44075cc50ba7677a17e5"
+      "sha256": "e0e29d86b4ffe9fbfed0201fec74b3e3bb024c5ff66f1d73cb99bb6170a03485"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part88",
       "dimensione": 4194304,
-      "sha256": "bf67c2e6018086b5804534b13f869a07bc2b8c75bbb767106641d4f906d9197f"
+      "sha256": "86a5801c57637c4daab49adae8e404da06f318999fc7205382b6ca80c6354fed"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part89",
       "dimensione": 4194304,
-      "sha256": "c50ba61d0b3ce090f0572f11ba76c13db738fa821d47fc61195aaf2dcdefffe3"
+      "sha256": "9f3c8cedb72ac78135d6710108f274f242594899893861cbd8cf6805e599dc56"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part90",
       "dimensione": 4194304,
-      "sha256": "64c57bcc17431a4f811453ee1e250d3629531916860e6f6d999c1576d59e5961"
+      "sha256": "36aa8ae8d10a1ef86a3091b3ef8919a1d5a0f20a6b0556e639c0d57d302ad10e"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part91",
       "dimensione": 4194304,
-      "sha256": "3ae76bdee08275beca16fb6bca0e591ff2432be770c6edda83736b434a4593f3"
+      "sha256": "0e1be780784eba4ccde087fd15ff2c1cd40cce006e98426d8bc56d02d8185dbb"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part92",
       "dimensione": 4194304,
-      "sha256": "c20923b59f91fea7a6e9f5335111d36ac35d6590e0381e06ddcdba7f76595692"
+      "sha256": "f935f1868294fafba752d0454005431f2bc34564d4983655fc86661193a47ecd"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part93",
       "dimensione": 4194304,
-      "sha256": "35c196ef42c890754500c82f0b7cb45f048934a5ee143251e6f0f85500fc1db0"
+      "sha256": "d475af96010b51f0fd522839d8a089b8e1d82cc099d38554ddbd09b78068ff6a"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part94",
       "dimensione": 4194304,
-      "sha256": "2ee25ed80e192d642e44132686561cfcca4505f327f53c10713d20c9c8be4bf9"
+      "sha256": "d6913bc57b3a773c61450bd7c290b866ddae6ae834360d2e76f871c56d51fcde"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part95",
       "dimensione": 4194304,
-      "sha256": "88cf83fdaec3b27a3677fd610d110f7dc7cd26cda126a8b5ce05eab9e82cbccd"
+      "sha256": "1460e74e064409e4e3afa1ed4be9b5fd2110bbb4e35fdabf130cdd3f996d2d22"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part96",
       "dimensione": 4194304,
-      "sha256": "263a65831116dd9b8abea33c03efcaabd8083682dc995e9441c937492dc0fbbb"
+      "sha256": "3e8295ed3e0dde50cff11820f8bc09a1d4ce54e68b978a74aa824353557db498"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part97",
       "dimensione": 4194304,
-      "sha256": "b2f62e14f49932cfa4097b989355939439fab2f190a1dc26e11c14fc82bec4a3"
+      "sha256": "d2e981f138d057e7c26338f150d1aca9b3b0a8a588ca7d91a1de2823910b4092"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part98",
       "dimensione": 4194304,
-      "sha256": "67031fc4041003c00ec2774cd45c664a2e81425a458ffba283c3265c95422b32"
+      "sha256": "8b6863b7e7900a96deaf697dec2b23c3c8d07d690c0f0ec93a58d747dc026b4a"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part99",
       "dimensione": 4194304,
-      "sha256": "cb73c2ab5771167ec53afe23b10e1c8c476f28248611c4bb4ea172d35c432d09"
+      "sha256": "f458adfa923da048fe1dc602bb5a2f12fe54ab8e71480867dbc7f3c95bb01453"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part100",
       "dimensione": 4194304,
-      "sha256": "1f72ed7582b94d279b12419259ec8a657641007cdfffcf8d82982dbfd79040a7"
+      "sha256": "3892eecc5564a326573a11260d8f29c1f0e12c1c409f8ca1fee528590d7af8f4"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part101",
       "dimensione": 4194304,
-      "sha256": "5d80ec9790b8e6efe007af86ce1bd895423bb2c721b37ff68db0232a188ac5ad"
+      "sha256": "5c1b471e4d8fe978164397fc36904520b009f8dc805bf736a689dd924228c4a1"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part102",
       "dimensione": 4194304,
-      "sha256": "254dd91f9f576baca6ed6c09c4a7689f0ecef8a46a304264f65179949be319ed"
+      "sha256": "085317834ba963c30474b233b845006dbe371324c3562e6ab1333744be15cacc"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part103",
       "dimensione": 4194304,
-      "sha256": "e5bccae23eb979fb170e02b0ef4c54a53b039dc32d183ab17e6a01ee9482d66a"
+      "sha256": "9c2fedb87d789a27b083610659fd856350edaf2b6dd5e235223cc9def0ef183f"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part104",
       "dimensione": 4194304,
-      "sha256": "9a59e217a80d2c10f63734aeed19fbeb09a99094fbd79f3c105dffa35ce0d275"
+      "sha256": "62a7307b6a2d4eb968fc030a750b0cfd07fb5d173e80ced267d92449c584581f"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part105",
       "dimensione": 4194304,
-      "sha256": "be2563e974eaa98ba044fafafddb2876939d8794de65fb876c4e1a06ba07b24d"
+      "sha256": "db29e99b683bd0337992c5aa22dbe6dd56756a12e483220b6cb023c3fd16cccd"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part106",
       "dimensione": 4194304,
-      "sha256": "a784cd86dfa071bbfd8fb6245ad794e98202c4b52a9a0adf8daa86d2da9bc675"
+      "sha256": "c957434fe3672aeedca29aeac93e2d3cc7623ea66cb8f3273d1574abd91feed9"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part107",
       "dimensione": 4194304,
-      "sha256": "58a7d22e3e1bcc3da8452d83c823ebad161c9b01056dd9e36de589cbbd908896"
+      "sha256": "050d3c5969a130f84e602a2412f94d516a14cd031eb552de79943deb47e22a1b"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part108",
       "dimensione": 4194304,
-      "sha256": "ab36ec5fed134172cb8bb8714c18380ac396789007e70ddac37ae1ae42d364b9"
+      "sha256": "7a265af4e7eb692c0ded2e6c8b8d94ad0a9ed09ef13305ac0187c97e0db59d11"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part109",
       "dimensione": 4194304,
-      "sha256": "dff80eee478c3aff98383b1e652d2a2f69eeeec718c6681b1af68f0fdb881a9e"
+      "sha256": "ec9c3b741f897fc9948efb99c9f388df2979c05bcd965e5fccc93fe558695683"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part110",
       "dimensione": 4194304,
-      "sha256": "f53bbb70e1b28563eedd431a7a6c8651a7163bd3206bf56aed4deb118bdb0f75"
+      "sha256": "831ea0620d75b05129b14afb4bdde23d1f495d6eb52cb74885eace80668de759"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part111",
       "dimensione": 4194304,
-      "sha256": "edbe1d38ca1c95f19f3e6e7290299263e53346025985d595bbaacf38b124e936"
+      "sha256": "cda1c85c3b2be8d449a8d98c4ee6854a1d7a02aa43280de9754ad0264f1bdef2"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part112",
       "dimensione": 4194304,
-      "sha256": "c26b0fe9e9d57ccf2aa8be61df20fbe974711691b332a8454dea92bfba97a637"
+      "sha256": "a85a237d2eac8a4330aba25adeafbcbf7cc47d5a8a867f93ef8e5ca3093a35c8"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part113",
       "dimensione": 4194304,
-      "sha256": "73d67a5b343ad87df0d610c06def3d493486d9b9c4ea453dd69c9fbbc7afcfac"
+      "sha256": "da38a14ffc469f1a4b507716b296831d88646e9ceac591607a4d311d98363f78"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part114",
       "dimensione": 4194304,
-      "sha256": "49bd962d32cacea52d752f21cabf8b6e91430cd74bd77e32928f4fccfaa3a501"
+      "sha256": "53c98ea43b6b55fcf294c877907f5dd8131b3190d715b1eb2f648a7f7c48d9a5"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part115",
       "dimensione": 4194304,
-      "sha256": "3a78a1cd45988424fd21115c520e1c770640e7a19baa3e3ef69b5b0ad7129ee0"
+      "sha256": "1f67f4875d8a24c94d82f1f32a72316dc29b90382285e5f05767586f28d4e126"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part116",
       "dimensione": 4194304,
-      "sha256": "d2b6e970ddf7339ec0757d1805489fdbb60b81ce11b978837fe0fc0e9680179b"
+      "sha256": "900971a0657e08f068d71b6e8766d7af3c9bd25d3a3fe58b97e220cb7f938e58"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part117",
       "dimensione": 4194304,
-      "sha256": "b5c0c98cabc772943ab697a6bac820f254911723fd199ea245e15bdfaf42a405"
+      "sha256": "46cdcb3f3a12f52071c66818a9323a937324b6bb3f9b1c2e59e76ebec7369753"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part118",
       "dimensione": 4194304,
-      "sha256": "1859603b15a7b5ea8455f2be9ddd19b90e9b67e89e2004c59e976f346508db38"
+      "sha256": "32ca6bf0b6b1fccdb194ae2fc129925a601a8ed111bf80df68c758c5e73c8d5f"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part119",
       "dimensione": 4194304,
-      "sha256": "af4905c75c995021e83b95e5facb9b15c4cd4f875f66df3c8d4d90e76299b4b0"
+      "sha256": "0925ccb5fbc21c4df8a24d8a5e7c23f6314dc838cebb1fc8ac4e8cea5c7cd005"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part120",
       "dimensione": 4194304,
-      "sha256": "f1d369170b8b6b8b9fec2ae0eef072d78e5235c858121962c8454aa3db1a10b8"
+      "sha256": "616bd9d26e3eb002ab8bc305479776c7779ba7a8ef857e56bce0e32f9ff441d4"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part121",
       "dimensione": 4194304,
-      "sha256": "a6f6d4610908c86e6c9a3c4896e536bb4f3142e5cae7f50ff2a430beca2313ba"
+      "sha256": "e00a296d744e8499fb9dec2f5688402071d3ef80b0623361722cdc8f1c3f18ee"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part122",
       "dimensione": 4194304,
-      "sha256": "23d6ced9b7bfb38e301a330fac8e14f4cd9b66229d7265df0e151b3f3d15ac69"
+      "sha256": "ba0c50d991d60b275744372f6e8409235b92c6a0ca2f9aeafef1e58ce21cc8e1"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part123",
       "dimensione": 4194304,
-      "sha256": "b80539bedac85fcf520e43406f68f955322d10cbc6e0ea56cacd5cfa0a2b1cd1"
+      "sha256": "91413396aa099591bb09e6eff2bc8305379aded7fa3219180d56fb119fe14c04"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part124",
       "dimensione": 4194304,
-      "sha256": "a5b7f02765ed6d5f633e1bfe6191aa912c93d9aa341bfbd112a60ab2c18609cb"
+      "sha256": "d5e109afe2abc751903eeacb11ad11d09bfc5884c971bcdd467a5c3ee0438822"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part125",
       "dimensione": 4194304,
-      "sha256": "4279b4ba417e86f79d8b88b99adb3a59f00263bd355e8b7989914ba4c185045f"
+      "sha256": "8105f35917ac9cf765d56226335b5ab7d5d9780be09e7037a1417af72d5fb8b4"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part126",
       "dimensione": 4194304,
-      "sha256": "581f2f505b0379536c63ea991ba3ebb360ddd274943d13d4f652190037352cd1"
+      "sha256": "d4b7ec0b2eb17f53863d57977697a1f69d771995deb1b20a9c952ec923eb0e32"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part127",
       "dimensione": 4194304,
-      "sha256": "fefa2a2fb676e753c474480766b8241d16213ad54aa13756815e428c9cc3d317"
+      "sha256": "789d32407a8d8e25f64d8d56874fb1f91e819e429ca499226af0fdde3173c89a"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part128",
       "dimensione": 4194304,
-      "sha256": "e93dcf1d3c008204426caaf280a569e2f436256f5f1447821ed288639684a62b"
+      "sha256": "5e4b3de41a5c3c4d19c0e9e8ad269dc1b38e57a63c928f81605482803f00039e"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part129",
       "dimensione": 4194304,
-      "sha256": "bbf83594479588a1a12455233ebd5c116e547ff308931bb61819215545c7b1ca"
+      "sha256": "30f9ddff806db11ca43b0627c4e89ef4353e262ee3c46f53905b5d9fcc11a9b5"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part130",
       "dimensione": 4194304,
-      "sha256": "49c37bac99329ec276af9a339122a876a18658450d60a33acc024c933305be6c"
+      "sha256": "b67936b45d2eb13f9ce439732d405aec8133aad4585f72906a46591b2b5a82be"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part131",
       "dimensione": 4194304,
-      "sha256": "ba2abc77d85e241fbda3d727cf54ad47a7d2ea6b7d78d1c08df1f31dca40f9f8"
+      "sha256": "039f90cc3472c528f5b704048fa9f6d1dc09ad7267dae2b03ede94f3d5c27ac6"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part132",
       "dimensione": 4194304,
-      "sha256": "6877f5068c77b9ded7c03aa0220ef5583893c317da849a9ab3aea751e8e256f3"
+      "sha256": "dcaf044020e0dc8c5afc8594447e1d2fb60722259d3c857491fff97d7778cfe1"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part133",
       "dimensione": 4194304,
-      "sha256": "ade1ddd63968dcc8a2c187c4cdaa54c2a5186194fbd52c56bf5fea61d11f572e"
+      "sha256": "38ffca08dbde7273ca90442f4a046d93ea2ddf86d1ad9640de2a8ca1ba92a084"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part134",
       "dimensione": 4194304,
-      "sha256": "162ece057ecbc525b08c3c38c8dbab942f5a87a4e1d9877a3bfb306fbfc03b1b"
+      "sha256": "4d2b00d414638dcccb7baf5eb4c60666cba84cfef5c1194836896af59f3dfaad"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part135",
       "dimensione": 4194304,
-      "sha256": "cf01e46c619f82919c77ce2254da33f0fdbf811c9875880fbdef76cabbbe782c"
+      "sha256": "0d9bb096502d01137fdd9d8ad377883f49b262e3377da08c7d4a5c550d89d82c"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part136",
       "dimensione": 4194304,
-      "sha256": "6482a365cb36dc777f2f596c7a1073e775ebaa8f9d951068413c4ac438cef6e2"
+      "sha256": "5c1eeefc2162c9bbb5ce95e26c374ef1d019bc73f4b72af94be5962953de22ad"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part137",
       "dimensione": 4194304,
-      "sha256": "2efc63b6e2fdc6150056326b9cc87476143221361f454a67440d81c89639c90d"
+      "sha256": "58f4cf171a6cce27305c9dd76916ddfff0d1d0247ad598c71da5b9756e86b11c"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part138",
       "dimensione": 4194304,
-      "sha256": "5d0d16269c68e57d03a7354e7dd875dfe4eadc113d47fdcb277b9b8eb932cdd4"
+      "sha256": "6c3ffb223a5fdde958408f4a627c95f5a7508a205e4907a8c53eac9c133d0202"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part139",
       "dimensione": 4194304,
-      "sha256": "d917c2c3a279251354608f8fd532a5c708759f6f9d4923c19849b9860bad2070"
+      "sha256": "5e4361c073805f2572314391653637a4034568daa38cb27f01a7eebaac28271d"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part140",
       "dimensione": 4194304,
-      "sha256": "a66962398137cf0da48ac7bf6ab999e6d43f0e56aa4b4c9d1365c4ea4e99ed59"
+      "sha256": "a8fc2ebc20065088e80a322938c0b9b506f50b4283fdbaec8401fa1060c97414"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part141",
       "dimensione": 4194304,
-      "sha256": "653d218a36c81bafd2e074255df52d3eda0e23ad121028f57cfdfe7e872193af"
+      "sha256": "89d363e5d2fdb62d6b0953c70bdfd138f393aff9c024ffc9a4c17fd8389b2dc8"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part142",
       "dimensione": 4194304,
-      "sha256": "0b0422c36737065580394dd1462efe18b437b73c84a22929fd788e08f19ee0dd"
+      "sha256": "e0268c230250b79ce0de4c3d0950c581aa4be44a8c3f331fc01e1be866efff0e"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part143",
       "dimensione": 4194304,
-      "sha256": "d3fa99cc6df24a7883f87c7b8fb4d8e59769fe33646a419b9488dbf869bff260"
+      "sha256": "20725a91598af50454435b1f33729f03e18ce45629668dc00e6c4395851ec73b"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part144",
       "dimensione": 4194304,
-      "sha256": "0dbc982182724f2bc80aa502c6ed8bf7bc65e428af0ac78cb080f4facdfde10b"
+      "sha256": "34316bd9437c335d89ef560be398e88754f28ed82225f468adbf170839c8d8cd"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part145",
       "dimensione": 4194304,
-      "sha256": "10315598dffb0071377e578c5e4b3e26e39039b1b49cc53dbe09ebd04acb00a9"
+      "sha256": "b4b08f8b2874c005b4d0d390610ef1331bb65a3308c995b9fbcac0ef0a27632c"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part146",
       "dimensione": 4194304,
-      "sha256": "0ac79e6bb1f87cbd21b78ec6498bc69697331fdf30d300109f7d110518854196"
+      "sha256": "3cfb95f54669dd94710954231a1fa0a1385e903500fa62cfc46a4cbaf40858c5"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part147",
       "dimensione": 4194304,
-      "sha256": "474b5ec7e19605593f04ed181f36f6e7506b9d5f69dc7eddc5d35e5f37b75f88"
+      "sha256": "42fa5fda7802f1fa97589b26bee8a514935d989defd9aca4f1bddbac06a1aa41"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part148",
       "dimensione": 4194304,
-      "sha256": "57bb4ee2e30c9405c9c904014859a5457620164010734889debc55de878aec14"
+      "sha256": "a9c36fb614320a64b63f214da0a8dbdfeacdb531758aa123356a7aa10cf18a02"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part149",
       "dimensione": 4194304,
-      "sha256": "073dbdc938ed05e6462c909c866f28ae292a7a628e1512b3db06ec2344eb1f09"
+      "sha256": "97c1877bfeced553221122da60c1b05ccb0bc00c15c63eec05bc0e03013d9179"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part150",
       "dimensione": 4194304,
-      "sha256": "cbdc8190ffa16185bc3a57a8c8e2a187c0a245b0ec2391082b811450aa3bcc3c"
+      "sha256": "c1ca77b3123ea8ebd03608843ed70fcfa4dbf1df6578d301e95cd22cc1e947f7"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part151",
       "dimensione": 4194304,
-      "sha256": "59b99b02f63bc3995d83a9f0795d2c9ea2db6cfc3f44e0ea87a8e35b93e34d9a"
+      "sha256": "b7c37d7e36e17b54b98fe3cae7a130c651d418bf56e10944864a2657faafe1fb"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part152",
       "dimensione": 4194304,
-      "sha256": "9cf868f3ddfc667df52e9b95c4a42892219ec33a33fd5f68533a8e16e7eddfb5"
+      "sha256": "0e82b6e2740ad0a520d5ec48197d12f8518522b2f9cf04565a2959926c668bef"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part153",
       "dimensione": 4194304,
-      "sha256": "4714687706bc00fd7f6e36e270e6305f8fa69f8cdf919d505a3dd10b42f32a6e"
+      "sha256": "71f2677d1e48b47e182410629d461b7e85c9eaf96b0ea4afc4ea05ea6289335e"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part154",
       "dimensione": 4194304,
-      "sha256": "30b40b2bb047490aeb3225f639d183f5d09ec083512d7ca1b5e13309d7787804"
+      "sha256": "3558ef67533b399bfe10a9eba8ca16c69bef61d28b990a7c55f12f80de1a870e"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part155",
       "dimensione": 4194304,
-      "sha256": "eab8a27e231a20606b2fcbc496474bde6a69af778e572f8b99dd0d450ca1e07f"
+      "sha256": "3d5238dfa61d3279989b2ae1577d2131ca8c0781ad5d2c26c94af89abbc5f846"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part156",
       "dimensione": 4194304,
-      "sha256": "2a742eee9ab97f475610efd6a832000a62ce8b56e46b311df1c1aad561985846"
+      "sha256": "9d1dc2fa1832ccaea901bbcce8f398a64dbc4a4b9f9a3e5a2b24872b16456bbc"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part157",
       "dimensione": 4194304,
-      "sha256": "448e9340937f5ece04b1fc4a82e2e5302d678486f065c04d8210048a74c37877"
+      "sha256": "2ae2a3ee9ea376d1ee3ab970edfb9636e05e47ab2eb6db7956f9d535c65978af"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part158",
       "dimensione": 4194304,
-      "sha256": "529b210108dcdf0e137a8fabec75cff14020d00ab90b62a8c5e17edc70b66d61"
+      "sha256": "38e000e558e2c7592198462102a48076bf435669d0a8c4111f1da6bf679b5a39"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part159",
       "dimensione": 4194304,
-      "sha256": "3301484138ad6d35d347a21f9357d284c5159ff8965c295b966d85ae473b18fd"
+      "sha256": "9dba2c253531f8c81db19acde20e0fc54092e5155c49dc2ef5d888e33bc7f49d"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part160",
       "dimensione": 4194304,
-      "sha256": "dddc100d061714abc3ebe57b8e42f881c93b11c94d3b3b90d260e6150469b8d9"
+      "sha256": "f83eae38cc6d4f375383693f28d2d1d65ae9b3e383f272dd8cf048341096cdfb"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part161",
       "dimensione": 4194304,
-      "sha256": "00427e7e6de4474eb57405d69272653f4b9a515b4d0f50ea2851bac2d78e3135"
+      "sha256": "32f520f9a2567355dad5bf93b29c9d1f95c6bb1c82ca11b82f2df2a7226834f0"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part162",
       "dimensione": 4194304,
-      "sha256": "24253cf3b619a0fb807530af559c633f8bba4996adbadc28c4d7febae238b6d0"
+      "sha256": "dcf94158aef83c911b775a3626e88d153005bd17971237f9b59a9ab754b855d0"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part163",
       "dimensione": 4194304,
-      "sha256": "59a01be258ff40ca82acfdb8dc84768427894210aa2afdb34115b7aefd90d980"
+      "sha256": "38d48e06eca5bfcc8381bdae2f11861573c75f6667ca55db80c8ad70e31fc848"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part164",
       "dimensione": 4194304,
-      "sha256": "783bba9fcfea2501a4a5566262bd5389e5f9ad6a6e2800978946bc5514499443"
+      "sha256": "4cba2bf6831dc430196a95a7b35901c6c96054d237be10de9d5f2b641a1d9e47"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part165",
       "dimensione": 4194304,
-      "sha256": "60c0904963abc3e57d49b2bc22e23e037995f45b1dcef5b3898ff14ccbd67d8d"
+      "sha256": "c38cefee35589109be1a9808dce5e6c46805ddb2ddc19a6af49cf9554aa6e0df"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part166",
       "dimensione": 4194304,
-      "sha256": "00f96b607caede644e2c98cef9e0c0c614d2ad8a8c4fe79df0706278461d44a2"
+      "sha256": "7a1c8ed6a25b0d5536b5b1920750075d84e1d6281b5a3b6845d0eef2ee5d96bf"
      },
      {
       "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part167",
-      "dimensione": 1569488,
-      "sha256": "797300a635b20370d1a4f2b4f1b28bb268885b6d564fa45e2b81d86e55b1ed31"
+      "dimensione": 4194304,
+      "sha256": "b6acd1cbff3399604e0c9a2e6ed4c8238eca1d0748751e8f0b0756ad19e37fb5"
+     },
+     {
+      "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part168",
+      "dimensione": 4194304,
+      "sha256": "0a35228e57b113299a2ef1152e51befe99058e3daffa12f06244d223fa6c64c5"
+     },
+     {
+      "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part169",
+      "dimensione": 4194304,
+      "sha256": "62ef1e4f66d6fe49db33589eac67deed2c40bcc00c9c28acab74b337b9b4ff1f"
+     },
+     {
+      "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part170",
+      "dimensione": 4194304,
+      "sha256": "4c335248cce07f4d08effa869fb86cc91f7a4726f11b1cbb2091e798a9b1a907"
+     },
+     {
+      "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part171",
+      "dimensione": 4194304,
+      "sha256": "1016b64463bee422000d0346e3c63676f08824edc3b61cfd61c235a5b30f262f"
+     },
+     {
+      "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part172",
+      "dimensione": 4194304,
+      "sha256": "39b54ce8b1f5dbb514e9dd621ce8778aacfaf359d7305cd55b403a7540110df9"
+     },
+     {
+      "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part173",
+      "dimensione": 4194304,
+      "sha256": "73f9a0baefda68d7db18b3f0c19a5a7d9dba7d201874ac21ed1a2f7cc5993624"
+     },
+     {
+      "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part174",
+      "dimensione": 4194304,
+      "sha256": "4a5778339d3b08df8bf616b1505c6177b6208e4b9377daa011f5a42913cbd0ef"
+     },
+     {
+      "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part175",
+      "dimensione": 4194304,
+      "sha256": "6e5a38afb3fe5b64763563820c69fbe0ce5cad8a626f41f6791cf04660b8e596"
+     },
+     {
+      "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part176",
+      "dimensione": 4194304,
+      "sha256": "c87d059959fdf1db2623d8cbc4827e8b88a63e2595928dc03e4058205f70ef68"
+     },
+     {
+      "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/KnucklesAdventure.exe.part177",
+      "dimensione": 4002028,
+      "sha256": "485d154ca801068611b37bd21c58dd060b28c642ab1231bd09b6133a862b0984"
      }
     ]
    },
    {
     "percorso": "LEGGIMI.txt",
-    "dimensione": 407,
-    "sha256": "9131580d81b9dfd4549a406a3f4250808d5c30a66e3131195311a13b11792933",
+    "dimensione": 409,
+    "sha256": "aa6545d1fa914183b1b8f153eae922ff7c915dc3cae7c8d90f3e8ff29cffac74",
     "url": "https://raw.githubusercontent.com/patata3213-art/knuckles-adventure-download/gioco/pezzi/LEGGIMI.txt"
    }
   ]
@@ -866,7 +916,7 @@
   "sha256": "3ba4693dd1dd6618471de7b6adbd0b852423994d9dd218a5192a6abe4738e2ec"
  },
  "notizie": {
-  "it": "Versione 15.93: da ora gli aggiornamenti si scaricano molto più leggeri.",
-  "en": "Version 15.93: from now on updates download much lighter."
+  "it": "Versione 15.94: nuovi livelli, nuove musiche e il co-op fino a 4 giocatori.",
+  "en": "Version 15.94: new levels, new music and co-op for up to 4 players."
  }
 }
